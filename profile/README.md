@@ -1,4 +1,4 @@
-# Welcome to Eclipse Tractus-X
+# Welcome to Eclipse Tractus-X 🙌
 
 - [Eclipse Tractus-X Project page](https://eclipse-tractusx.github.io/)
 - [Eclipse Foundation Tractus-X Project page](https://projects.eclipse.org/projects/automotive.tractusx)
