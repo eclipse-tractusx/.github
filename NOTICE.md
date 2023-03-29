@@ -36,7 +36,7 @@ The project maintains the following source code repositories:
 
 This project leverages the following third party content.
 
-See DEPENDENCIES file.
+NO
 
 ## Cryptography
 
