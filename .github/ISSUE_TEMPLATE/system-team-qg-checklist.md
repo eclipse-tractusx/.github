@@ -1,9 +1,9 @@
 ---
 name: System Team Quality Gate Checklist
-about: 
+about: ''
 title: 'QG X System Team checks (Release x.x)'
 labels: documentation
-assignees: 
+assignees: ''
 
 ---
 
