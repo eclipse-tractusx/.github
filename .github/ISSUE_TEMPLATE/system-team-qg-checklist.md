@@ -1,6 +1,6 @@
 ---
 name: System Team Quality Gate Checklist
-about: ''
+about: 'product check for a upcoming Release'
 title: 'QG X System Team checks (Release x.x)'
 labels: documentation
 assignees: ''
