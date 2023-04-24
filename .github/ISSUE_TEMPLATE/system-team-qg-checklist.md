@@ -1,14 +1,14 @@
 ---
-name: System Team Quality Gate Checklist
+name: Quality Gate Checklist
 about: 'product check for a upcoming Release'
-title: 'QG X System Team checks (Release x.x)'
+title: 'QG X checks (Release x.x)'
 labels: documentation
 assignees: ''
 
 ---
 
 ## QG checks
-Please keep this issue open until QG X is concluded and will be managed by the System Team!
+Please keep this issue open until QG X is concluded and will be managed by the Issue Creator!
 We will inform you about finding and proposals in separated issues, this issue here is for the Overview of the Checks!
 
 ### Please keep this issue open until QG4 is concluded!
