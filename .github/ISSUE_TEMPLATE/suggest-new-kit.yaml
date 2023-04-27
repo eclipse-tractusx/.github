@@ -35,7 +35,7 @@ body:
       value: |
         1. Which Problem schould it solve?
         2. How do you want to solve it?
-        3. 
+        3. etc.
         ...
     validations:
       required: true
