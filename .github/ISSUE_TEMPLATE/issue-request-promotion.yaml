@@ -1,0 +1,14 @@
+name: KIT-Promotion
+description: Request to promote your KIT
+title: "[Promote KIT]: "
+labels: ["kit-proposal"]
+assignees:
+  - octocat
+body:
+  - type: input
+    id: Artefact_Location
+    attributes:
+      label: Artefact List
+      description: provide a list of links to the required artefacts
+    validations:
+      required: true

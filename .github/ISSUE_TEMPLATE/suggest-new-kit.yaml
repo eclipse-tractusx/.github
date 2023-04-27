@@ -10,7 +10,6 @@ body:
     attributes:
       label: Contact email
       description: "Enter your email address if we need more info"
-      placeholde: foo@bar.com
     validations:
       required: true
   - type: input
