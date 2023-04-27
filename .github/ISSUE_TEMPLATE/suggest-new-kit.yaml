@@ -6,6 +6,13 @@ assignees:
   - octocat
 body:
   - type: input
+    id: KIT-contact-person
+    attributes:
+      label: Contact person
+      description: "Enter the name of the contact person"
+    validations:
+      required: true
+  - type: input
     id: KIT-contact
     attributes:
       label: Contact email
@@ -17,8 +24,8 @@ body:
     attributes:
       label: Name
       description: "Name of your KIT"
-    validations: 
-      required: true 
+    validations:
+      required: true
   - type: textarea
     id: KIT-description
     attributes:
