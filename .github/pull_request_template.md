@@ -9,6 +9,8 @@ title: '(feat|fix|chore|doc): _description of introduced change_'
 Thanks for opening this contribution!
 _What does this PR introduce? Does it fix a bug? Does it add a new feature? Is it enhancing documentation?_
 
+Fixes # (issue)
+
 ## Pre-review checks
 
 Please ensure to do as many of the following checks as possible, before asking for committer review:
