@@ -9,7 +9,7 @@ title: '(feat|fix|chore|doc): _description of introduced change_'
 Thanks for opening this contribution!
 _What does this PR introduce? Does it fix a bug? Does it add a new feature? Is it enhancing documentation?_
 
-Fixes # (issue)
+Fixes # (issuenumber from PR destination repo)
 
 ## Pre-review checks
 
@@ -24,3 +24,4 @@ Please ensure to do as many of the following checks as possible, before asking f
 - Use the [mailing list](https://accounts.eclipse.org/mailing-list/tractusx-dev) if you are unsure, who to contact, or if want to engage in a general discussion
 - Check out our guide on [how to contribute](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute)
 - Check out our [Release Guidelines](https://eclipse-tractusx.github.io/docs/release)
+- Check out the [Eclipse Foundation contribution guidelines](https://www.eclipse.org/projects/handbook/#contributing)
