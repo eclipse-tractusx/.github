@@ -9,16 +9,9 @@ body:
     id: KIT-contact-person
     attributes:
       label: Contact person
-      description: "Enter the name of the contact person"
+      description: "Enter the GitHub Profile with @<Username>"
     validations:
-      required: true
-  - type: input
-    id: KIT-contact
-    attributes:
-      label: Contact email
-      description: "Enter your email address if we need more info"
-    validations:
-      required: true
+      required: true  
   - type: input
     id: KIT-Name
     attributes:
