@@ -22,7 +22,7 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 
 ### Check of Tractus-X Release Guidelines
 
-This QG x Check is depending on the mandatory information form our current [Release Guidelines](https://eclipse-tractusx.github.io/docs/release) 
+This QG x Check is depending on the mandatory information from our current [Release Guidelines](https://eclipse-tractusx.github.io/docs/release).
 
 #### TRG 1 Documentation
 - [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md` 
