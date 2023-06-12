@@ -173,16 +173,6 @@ This QG x Check is depending on the mandatory information from our current [Rele
   </details>
 - [ ] [TRG 7.05](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-05) Legal information for distributions
 - [ ] [TRG 7.06](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-06) Legal information for end user content
-  <details>
-  <summary>Checks within TRG 7.06</summary>
-  
-  - [ ] TRG 7.06 Copyright statements
-  - [ ] TRG 7.06 License
-  - [ ] TRG 7.06 Trademarks owned by the Eclipse Foundation on behalf of the project
-  - [ ] TRG 7.06 The source code repositories
-  - [ ] TRG 7.06 Used 3rd party libraries
-  - [ ] TRG 7.06 When applicable - a cryptography notice
-  </details>
 - [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation
 
 #### Hints
