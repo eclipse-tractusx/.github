@@ -1,27 +1,25 @@
----
-name: Pull Request Template
-about: 'template for PRs that ensures basic information is provided'
-title: '(feat|fix|chore|doc): _description of introduced change_'
----
+<!-- 
+Thanks for your contribution! 
+Please follow the instructions on your PRs title and description.
+aligned title description: '(feat|fix|chore|doc): _description of introduced change_'
+Important: Contributing Guidelines can be found here: https://eclipse-tractusx.github.io/docs/oss/how-to-contribute
+Info: <!- text comments ->  will be hidden from the rendered preview of your PR.
+-->
 
-## Description
+### Description
+<!-- 
+Please describe your PR: 
+- What does this PR introduce? 
+- Does it fix a bug? 
+- Does it add a new feature?
+- Is it enhancing documentation?
+-->
 
-Thanks for opening this contribution!
-_What does this PR introduce? Does it fix a bug? Does it add a new feature? Is it enhancing documentation?_
+<!-- Please tag the related issue `Fixes or Updates #issue_number`, if applicable. -->
 
-Fixes # (issuenumber from PR destination repo)
-
-## Pre-review checks
+### Pre-review checks
 
 Please ensure to do as many of the following checks as possible, before asking for committer review:
 
-- [ ] DEPENDENCIES are up to date. [Dash license tool](https://github.com/eclipse/dash-licenses). Committers can open IP issues for restricted libs.
-- [ ] Copyright and license header are present on all affected files
-
-### Additional information
-
-- To request a review, check out [who's involved](https://projects.eclipse.org/projects/automotive.tractusx/who) to see a list of contributors and committers
-- Use the [mailing list](https://accounts.eclipse.org/mailing-list/tractusx-dev) if you are unsure, who to contact, or if want to engage in a general discussion
-- Check out our guide on [how to contribute](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute)
-- Check out our [Release Guidelines](https://eclipse-tractusx.github.io/docs/release)
-- Check out the [Eclipse Foundation contribution guidelines](https://www.eclipse.org/projects/handbook/#contributing)
+- [ ] DEPENDENCIES are up-to-date. [Dash license tool](https://github.com/eclipse/dash-licenses). Committers can open IP issues for restricted libs.
+- [ ] [Copyright and license header](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-02) are present on all affected files
