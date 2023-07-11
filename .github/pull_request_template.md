@@ -6,7 +6,7 @@ Important: Contributing Guidelines can be found here: https://eclipse-tractusx.g
 Info: <!- text comments ->  will be hidden from the rendered preview of your PR.
 -->
 
-### Description
+## Description
 <!-- 
 Please describe your PR: 
 - What does this PR introduce? 
@@ -17,7 +17,7 @@ Please describe your PR:
 
 <!-- Please tag the related issue `Fixes or Updates #issue_number`, if applicable. -->
 
-### Pre-review checks
+## Pre-review checks
 
 Please ensure to do as many of the following checks as possible, before asking for committer review:
 
