@@ -23,7 +23,7 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 ### Check of Tractus-X Release Guidelines
 
 - Currently implemented automatic checks can be found under your product on our [Release Guidelines Checks Board](https://eclipse-tractusx.github.io/sig-release/) 
-- This QG x Check is depending on the mandatory information from our current [Release Guidelines](https://eclipse-tractusx.github.io/docs/release)
+- This QG Check is depending on the mandatory information from our current [Release Guidelines](https://eclipse-tractusx.github.io/docs/release)
 
 #### TRG 1 Documentation
 
@@ -68,7 +68,7 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 - [ ] [TRG 5.08](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-08) a product has a single deployable helm chart that contains all components <!--(backend, frontend, etc.) -->
 - [ ] [TRG 5.09](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-09) Helm Test running properly
 - [ ] [TRG 5.10](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-10) Products need to support 3 versions at a time
-- [ ] [TRG 5.11](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-11) Upgrade-ability PRERELEASE
+- [ ] [TRG 5.11](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-11) Upgradeability
 
 [back on top](#qg-checks)
  
