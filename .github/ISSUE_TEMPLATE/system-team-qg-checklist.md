@@ -37,14 +37,14 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 
 - [ ] [TRG 2.01](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-1) default branch is named `main`
 - [ ] [TRG 2.03](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-3) repository structure
-- [ ] [TRG 2.04](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-4) Leading product repository
+- [ ] [TRG 2.04](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-4) leading product repository
 - [ ] [TRG 2.05](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-5) `.tractusx` metafile in a proper format
 
 [back on top](#qg-checks)
 
 #### TRG 3 Kubernetes
 
-- [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-2) PersistentVolume and PersistentVolumeClaim is used when needed
+- [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-2) persistent volume and persistent volume claim is used when needed
 
 [back on top](#qg-checks)
 
@@ -52,9 +52,9 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 
 - [ ] [TRG 4.01](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-1) [semantic versioning](https://semver.org/) and tagging <!-- container is tagged correctly additionally to the latest tag -->
 - [ ] [TRG 4.02](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-2) top level `README.md` file or separate `README.md` file for DockerHub, that contains information about the used base image   <!-- Java, Kotlin, ... if JVM based language use base image from [Eclipse Temurin](https://hub.docker.com/_/eclipse-temurin) -->
-- [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-3) Image has `USER` command and Non Root Container
-- [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be place `DockerHub` as mandatory container registry; remove `GHCR` references 
-- [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) Notice File for `DockerHub` has all necessary information
+- [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-3) image has `USER` command and Non Root Container
+- [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references 
+- [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) notice file for `DockerHub` has all necessary information
 
 [back on top](#qg-checks)
 
@@ -62,10 +62,10 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 
 - [ ] [TRG 5.01](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-01) Helm chart must be released
 - [ ] [TRG 5.02](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-02) Helm chart location in `/charts` directory and correct structure
-- [ ] [TRG 5.04](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-04) CPU and memory limits and requests are properly set
-- [ ] [TRG 5.06](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-06) application must be configurable through the Helm chart <!-- every startup configuration aspect of your application must be configurable through the Helm chart (ingress class, tls, labels, annotations, database, secrets, persistence, env variables) -->
-- [ ] [TRG 5.07](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-07) dependencies are present in the `Chart.yaml` they are properly configured
-- [ ] [TRG 5.08](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-08) a product has a single deployable helm chart that contains all components <!--(backend, frontend, etc.) -->
+- [ ] [TRG 5.04](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-04) CPU / MEM resource requests and limits and are properly set
+- [ ] [TRG 5.06](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-06) Application must be configurable through the Helm chart <!-- every startup configuration aspect of your application must be configurable through the Helm chart (ingress class, tls, labels, annotations, database, secrets, persistence, env variables) -->
+- [ ] [TRG 5.07](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-07) Dependencies are present and properly configured in the Chart.yaml
+- [ ] [TRG 5.08](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-08) Product has a single deployable helm chart that contains all components <!--(backend, frontend, etc.) -->
 - [ ] [TRG 5.09](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-09) Helm Test running properly
 - [ ] [TRG 5.10](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-10) Products need to support 3 versions at a time
 - [ ] [TRG 5.11](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-11) Upgradeability
