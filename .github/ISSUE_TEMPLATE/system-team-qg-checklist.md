@@ -28,7 +28,7 @@ QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Managem
 #### TRG 1 Documentation
 
 - [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md` 
-- [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate `INSTALL.md`
+- [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
 
 [back on top](#qg-checks)
