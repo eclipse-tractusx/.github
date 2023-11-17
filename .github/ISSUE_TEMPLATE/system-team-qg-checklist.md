@@ -18,6 +18,8 @@ Dev SPOC: <!-- Note: Please add every contributor to this product -->
 Helm Chart Version: <!-- Note: Please note the current Helm Chart Version to check. -->  
 App Version: <!-- Note: Please note the current App Version to check. -->  
 
+Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue -->  
+
 ### Check of Tractus-X Release Guidelines
 
 - Currently implemented automatic checks can be found under your product on our [Release Guidelines Checks Board](https://eclipse-tractusx.github.io/sig-release/) 
