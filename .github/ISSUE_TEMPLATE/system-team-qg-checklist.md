@@ -8,17 +8,15 @@ assignees: ''
 ---
 
 ## QG checks
-Please keep this issue open until QG X is concluded and will be managed by the Issue Creator!
+Please keep this issue open until QG is concluded and will be managed by the Issue Creator!
 We will inform you about finding and proposals in separated issues, this issue here is for the Overview of the Checks!
 
-### Please keep this issue open until QG X is concluded!
+### Please keep this issue open until QG is concluded!
 
-Product Name: <!-- Note: Please specify the official product name. -->  
 Product Owner: <!-- Note: Please search for the Product Owner of this product. -->  
-Dev SPOC: <!-- Note: Please search for the single point of contact of the product developers. -->  
+Dev SPOC: <!-- Note: Please add every contributor to this product -->  
 Helm Chart Version: <!-- Note: Please note the current Helm Chart Version to check. -->  
 App Version: <!-- Note: Please note the current App Version to check. -->  
-QG5 Approval: yes/no <!-- Note: Please ask for the approval from Release Management. -->
 
 ### Check of Tractus-X Release Guidelines
 
