@@ -48,9 +48,9 @@ App Version: <!-- Note: Please note the current App Version to check. -->
 
 #### TRG 4 Container
 
-- [ ] [TRG 4.01](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-1) [semantic versioning](https://semver.org/) and tagging <!-- container is tagged correctly additionally to the latest tag -->
-- [ ] [TRG 4.02](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-2) top level `README.md` file or separate `README.md` file for DockerHub, that contains information about the used base image   <!-- Java, Kotlin, ... if JVM based language use base image from [Eclipse Temurin](https://hub.docker.com/_/eclipse-temurin) -->
-- [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-3) image has `USER` command and Non Root Container
+- [ ] [TRG 4.01](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-01) [semantic versioning](https://semver.org/) and tagging <!-- container is tagged correctly additionally to the latest tag -->
+- [ ] [TRG 4.02](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-02) top level `README.md` file or separate `README.md` file for DockerHub, that contains information about the used base image   <!-- Java, Kotlin, ... if JVM based language use base image from [Eclipse Temurin](https://hub.docker.com/_/eclipse-temurin) -->
+- [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-03) image has `USER` command and Non Root Container
 - [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references 
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) notice file for `DockerHub` has all necessary information
 
