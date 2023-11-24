@@ -31,8 +31,6 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
 
-[back on top](#qg-checks)
-
 #### TRG 2 Git
 
 - [ ] [TRG 2.01](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-1) default branch is named `main`
@@ -40,13 +38,9 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 2.04](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-4) leading product repository
 - [ ] [TRG 2.05](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-5) `.tractusx` metafile in a proper format
 
-[back on top](#qg-checks)
-
 #### TRG 3 Kubernetes
 
 - [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-2) persistent volume and persistent volume claim is used when needed
-
-[back on top](#qg-checks)
 
 #### TRG 4 Container
 
@@ -55,8 +49,6 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-03) image has `USER` command and Non Root Container
 - [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references 
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) separate notice file for `DockerHub` has all necessary information
-
-[back on top](#qg-checks)
 
 #### TRG 5 Helm
 
@@ -69,14 +61,10 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 5.09](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-09) Helm Test running properly
 - [ ] [TRG 5.10](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-10) Products need to support 3 versions at a time
 - [ ] [TRG 5.11](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-11) Upgradeability
-
-[back on top](#qg-checks)
  
 #### TRG 6 Released Helm Chart
 
 - [ ] [TRG 6.01](https://eclipse-tractusx.github.io/docs/release/trg-6/trg-6-1) Released Helm Chart <!-- A released Helm chart for each Tractus-X sub-product is expected to be available in corresponding GitHub repository. -->
-
-[back on top](#qg-checks)
 
 #### TRG 7 Open Source Governance
 - [ ] [TRG 7.01](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-01) Legal Documentation
@@ -86,8 +74,6 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 7.05](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-05) Legal information for distributions
 - [ ] [TRG 7.06](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-06) Legal information for end user content
 - [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation
-
-[back on top](#qg-checks)
 
 #### Hints
 
