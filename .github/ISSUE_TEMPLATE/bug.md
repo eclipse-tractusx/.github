@@ -19,5 +19,5 @@ Please don't include any personal or sensitive data.
 ### Steps To Reproduce
 <!-- Please provide a clear procedure how to reproduce the bug. 
 Important technical details: 
-user information, screenshots, browser, app-version, environment, device, etc.
+user information, screenshots, browser, app-version, environment, operating system, device, etc.
 -->
