@@ -5,16 +5,23 @@ labels: enhancement
 
 ---
 
+<!-- Thanks for your contribution!
+Please fill out this template as good as possible.
+Please don't include any personal or sensitive data.
+-->
+
 ### Description
-<!-- Description of the feature. -->
+<!-- A clear and concise description of the feature. 
+**As** ... ,
+**I want** ... ,
+**so that** ... .
+-->
 
 ### Acceptance Criteria
 
-- [ ] [Acceptance criteria 1]
-- [ ] [Acceptance criteria 2]
-- [ ] [Acceptance criteria 3]
-- [ ] [Acceptance criteria 4]
-- [ ] [Acceptance criteria 5]
+- [ ] [criteria 1]
+- [ ] [criteria 2]
+- [ ] [criteria 3]
 
 ### Additional Information
 <!-- Additional information about the feature. -->
