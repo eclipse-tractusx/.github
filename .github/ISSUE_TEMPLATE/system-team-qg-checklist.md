@@ -30,7 +30,7 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md` 
 - [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
-- [ ] [TRG 1.04]([https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4)) editable static files
+- [ ] [TRG 1.04](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4) editable static files
 
 #### TRG 2 Git
 
