@@ -30,6 +30,7 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md` 
 - [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
+- [ ] [TRG 1.04]([https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4)) editable static files
 
 #### TRG 2 Git
 
@@ -54,6 +55,7 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 
 - [ ] [TRG 5.01](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-01) Helm chart must be released
 - [ ] [TRG 5.02](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-02) Helm chart location in `/charts` directory and correct structure
+- [ ] [TRG 5.03](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-03) proper version strategy 
 - [ ] [TRG 5.04](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-04) CPU / MEM resource requests and limits and are properly set
 - [ ] [TRG 5.06](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-06) Application must be configurable through the Helm chart <!-- every startup configuration aspect of your application must be configurable through the Helm chart (ingress class, tls, labels, annotations, database, secrets, persistence, env variables) -->
 - [ ] [TRG 5.07](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-07) Dependencies are present and properly configured in the Chart.yaml
@@ -74,6 +76,7 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 7.05](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-05) Legal information for distributions
 - [ ] [TRG 7.06](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-06) Legal information for end user content
 - [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation
+- [ ] [TRG 7.08](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-08) Legal notice for KIT documentation
 
 #### Hints
 
