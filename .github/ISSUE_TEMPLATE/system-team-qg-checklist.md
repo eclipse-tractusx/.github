@@ -53,7 +53,7 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 
 #### TRG 5 Helm
 
-- [ ] [TRG 5.01](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-01) Helm chart must be released
+- [ ] [TRG 5.01](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-01) Helm Chart requirements
 - [ ] [TRG 5.02](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-02) Helm chart location in `/charts` directory and correct structure
 - [ ] [TRG 5.03](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-03) proper version strategy 
 - [ ] [TRG 5.04](https://eclipse-tractusx.github.io/docs/release/trg-5/trg-5-04) CPU / MEM resource requests and limits and are properly set
