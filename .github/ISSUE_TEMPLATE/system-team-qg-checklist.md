@@ -78,6 +78,12 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation
 - [ ] [TRG 7.08](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-08) Legal notice for KIT documentation
 
+#### TRG 8 Security
+- [ ] [TRG 8.01](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) CodeQL
+- [ ] [TRG 8.02](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-02) KICS
+- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) GitGuardian
+- [ ] [TRG 8.04](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-04) Trivy
+
 #### Hints
 
 #### Information Sharing
