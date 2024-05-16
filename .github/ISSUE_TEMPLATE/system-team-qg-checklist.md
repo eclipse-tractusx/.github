@@ -38,6 +38,7 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 2.03](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-3) repository structure
 - [ ] [TRG 2.04](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-4) leading product repository
 - [ ] [TRG 2.05](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-5) `.tractusx` metafile in a proper format
+- [ ] [TRG 2.06](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-6) Dependabot
 
 #### TRG 3 Kubernetes
 
