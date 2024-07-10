@@ -11,11 +11,11 @@ assignees: ''
 
 Please open and fill in this issue in your product repository to document the compliance with our Tractus-X Release Guideline (TRGs)
 
-**Show compliance with TRGs** by referencing to a tagged link in the respective repository where possible, example: [github.com/eclipse-tractusx/example-repo/tree/1.0.0/docs](https://github.com/eclipse-tractusx/example-repo/tree/1.0.0/docs)
+**Show compliance with TRGs** by referencing to a tagged link in the respective repository where possible, example: TRG 1.01 (see [github.com/eclipse-tractusx/example-repo/tree/1.0.0/README.md](https://github.com/eclipse-tractusx/example-repo/tree/1.0.0/README.md))
 
 ### Close this issue once the compliance with the TRGs has been documented
 
-Committer(s): <!-- Note: Please add every contributor to this product -->
+Committer(s): <!-- Note: Please add every committer to this product -->
 Helm Chart Version: <!-- Note: Please note the current Helm Chart Version to check. -->
 App Version: <!-- Note: Please note the current App Version to check. -->
 
@@ -52,7 +52,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-03) image has `USER` command and Non Root Container
 - [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) separate notice file for `DockerHub` has all necessary information
-- [ ] [TRG 4.06] (https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
+- [ ] [TRG 4.07] (https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
 
 #### TRG 5 Helm
 
