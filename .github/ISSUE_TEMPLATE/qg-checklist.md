@@ -8,26 +8,27 @@ assignees: ''
 ---
 
 ## QG checks
-Please keep this issue open until QG is concluded and will be managed by the Issue Creator!
-We will inform you about finding and proposals in separated issues, this issue here is for the Overview of the Checks!
 
-### Please keep this issue open until QG is concluded!
+Please open and fill in this issue in your product repository to document the compliance with our Tractus-X Release Guideline (TRGs)
 
-Product Owner: <!-- Note: Please search for the Product Owner of this product. -->  
-Dev SPOC: <!-- Note: Please add every contributor to this product -->  
-Helm Chart Version: <!-- Note: Please note the current Helm Chart Version to check. -->  
-App Version: <!-- Note: Please note the current App Version to check. -->  
+**Show compliance with TRGs** by referencing to a tagged link in the respective repository where possible, example: TRG 1.01 (see [github.com/eclipse-tractusx/example-repo/tree/1.0.0/README.md](https://github.com/eclipse-tractusx/example-repo/tree/1.0.0/README.md))
 
-Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue -->  
+### Close this issue once the compliance with the TRGs has been documented
+
+Committer(s): <!-- Note: Please add every committer to this product -->
+Helm Chart Version: <!-- Note: Please note the current Helm Chart Version to check. -->
+App Version: <!-- Note: Please note the current App Version to check. -->
+
+Release Management Reference Issue: <!-- Note: Add the related product RM issue -->
 
 ### Check of Tractus-X Release Guidelines
 
-- Currently implemented automatic checks can be found under your product on our [Release Guidelines Checks Board](https://eclipse-tractusx.github.io/sig-release/) 
+- Currently implemented automatic checks can be found under your product on our [Release Guidelines Checks Board](https://eclipse-tractusx.github.io/sig-release/)
 - This QG Check is depending on the mandatory information from our current [Release Guidelines](https://eclipse-tractusx.github.io/docs/release)
 
 #### TRG 1 Documentation
 
-- [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md` 
+- [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md`
 - [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
 - [ ] [TRG 1.04](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4) editable static files
@@ -42,15 +43,16 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 
 #### TRG 3 Kubernetes
 
-- [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-2) persistent volume and persistent volume claim is used when needed
+- [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-2) persistent volume and persistent volume claim or database dependency (subchart) are in place when needed
 
 #### TRG 4 Container
 
 - [ ] [TRG 4.01](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-01) [semantic versioning](https://semver.org/) and tagging <!-- container is tagged correctly additionally to the latest tag -->
 - [ ] [TRG 4.02](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-02) base image is agreed  <!-- Java, Kotlin, ... if JVM based language use base image from [Eclipse Temurin](https://hub.docker.com/_/eclipse-temurin) -->
 - [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-03) image has `USER` command and Non Root Container
-- [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references 
+- [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) separate notice file for `DockerHub` has all necessary information
+- [ ] [TRG 4.07] (https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
 
 #### TRG 5 Helm
 
@@ -82,8 +84,8 @@ Release Managemnet Reference Issue: <!-- Note: Add the related product RM issue 
 #### TRG 8 Security
 - [ ] [TRG 8.01](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) Mitigate high and above findings in CodeQL
 - [ ] [TRG 8.02](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-02) Mitigate high and above findings in KICS
-- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) Mitigate high and above findings in GitGuardian
 - [ ] [TRG 8.04](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-04) Mitigate high and above findings in Trivy
+- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) No secret findings by GitGuardian or TruffleHog
 
 #### Hints
 
