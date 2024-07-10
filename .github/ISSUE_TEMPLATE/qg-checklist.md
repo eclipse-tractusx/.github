@@ -52,7 +52,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-03) image has `USER` command and Non Root Container
 - [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) separate notice file for `DockerHub` has all necessary information
-- [ ] [TRG 4.06] (https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root filesystem is set to read only
+- [ ] [TRG 4.06] (https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
 
 #### TRG 5 Helm
 
