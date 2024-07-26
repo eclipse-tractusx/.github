@@ -35,6 +35,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 1.05](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-5) architecture docs
 - [ ] [TRG 1.06](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-6) administrator guide
 - [ ] [TRG 1.07](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-7) user manual
+- [ ] [TRG 1.08](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-8) open api docs
 
 #### TRG 2 Git
 
