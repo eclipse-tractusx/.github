@@ -32,10 +32,10 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
 - [ ] [TRG 1.04](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4) editable static files
-- [ ] [TRG 1.05](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-5) architecture docs
-- [ ] [TRG 1.06](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-6) administrator guide
-- [ ] [TRG 1.07](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-7) user manual
-- [ ] [TRG 1.08](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-8) open api docs
+- [ ] [TRG 1.05](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-05) architecture docs
+- [ ] [TRG 1.06](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-06) administrator guide
+- [ ] [TRG 1.07](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-07) user manual
+- [ ] [TRG 1.08](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-08) open api docs
 
 #### TRG 2 Git
 
@@ -56,7 +56,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 4.03](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-03) image has `USER` command and Non Root Container
 - [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) separate notice file for `DockerHub` has all necessary information
-- [ ] [TRG 4.07] (https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
+- [ ] [TRG 4.07](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
 
 #### TRG 5 Helm
 
