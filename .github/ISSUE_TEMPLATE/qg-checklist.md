@@ -32,6 +32,9 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
 - [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
 - [ ] [TRG 1.04](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4) editable static files
+- [ ] [TRG 1.05](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-5) architecture docs
+- [ ] [TRG 1.06](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-6) administrator guide
+- [ ] [TRG 1.07](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-7) user manual
 
 #### TRG 2 Git
 
@@ -78,7 +81,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 7.04](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-04) IP checks for 3rd party content
 - [ ] [TRG 7.05](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-05) Legal information for distributions
 - [ ] [TRG 7.06](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-06) Legal information for end user content
-- [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation
+- [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation (non-code)
 - [ ] [TRG 7.08](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-08) Legal notice for KIT documentation
 
 #### TRG 8 Security
@@ -86,6 +89,9 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 8.02](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-02) Mitigate high and above findings in KICS
 - [ ] [TRG 8.04](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-04) Mitigate high and above findings in Trivy
 - [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) No secret findings by GitGuardian or TruffleHog
+
+#### TRG 9 UX/UI Styleguide
+- [ ] [TRG 9.01](https://eclipse-tractusx.github.io/docs/release/trg-9/trg-9-01) UI consistency/styleguide for UI
 
 #### Hints
 
