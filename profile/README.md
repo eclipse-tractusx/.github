@@ -14,12 +14,11 @@ For the latest Tractus-X release, see the [Changelog](https://eclipse-tractusx.g
 
 ## Our Vision
 
-Our goal is to create an open, scalable, and secure digital ecosystem (refernce implementations) for the automotive industry that:
+Our goal is to create an open, scalable, and secure digital ecosystem (refernce implementations) for the automotive and many other industries that:
 
 - Enables collaboration between suppliers, manufacturers, and partners.
 - Facilitates transparency and sustainability in automotive industrial processes.
 - Drives innovation across industries through open and community-driven standards.
-- Can easily be adapted/extended to other industries.
 - Ensures data sovereignty and privacy for all participants.
 - Offers an easy entry to various use cases through our [KITs (Keep It Together)](https://eclipse-tractusx.github.io/Kits) approach.
 
@@ -65,13 +64,11 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 
 ## Our Community
 
-Meet the project leads of Eclipse Tractus-X:
+Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractusx/who) and [committer](https://projects.eclipse.org/projects/automotive.tractusx/who) and our project leads of Eclipse Tractus-X:
 
-| ![Evelyn Gurschler](https://images.weserv.nl/?url=avatars.githubusercontent.com/stephanbcbauer?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Evelyn Gurschler](https://images.weserv.nl/?url=avatars.githubusercontent.com/matbmoser?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Evelyn Gurschler](https://images.weserv.nl/?url=avatars.githubusercontent.com/evegufy?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Daniel Miehle](https://images.weserv.nl/?url=avatars.githubusercontent.com/danielmiehle?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Björn Roy](https://images.weserv.nl/?url=avatars.githubusercontent.com/giterrific?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)  |
+| ![Stephan Bauer](https://images.weserv.nl/?url=avatars.githubusercontent.com/stephanbcbauer?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Mathias Brunkow Moser](https://images.weserv.nl/?url=avatars.githubusercontent.com/matbmoser?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Evelyn Gurschler](https://images.weserv.nl/?url=avatars.githubusercontent.com/evegufy?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Daniel Miehle](https://images.weserv.nl/?url=avatars.githubusercontent.com/danielmiehle?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Björn Roy](https://images.weserv.nl/?url=avatars.githubusercontent.com/giterrific?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)  |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |                                     **[Stephan Bauer](https://github.com/stephanbcbauer)**                                      | **[Mathias Brunkow Moser](https://github.com/matbmoser)**           |                                                 **[Evelyn Gurschler](https://github.com/evegufy)**                                                 |                                                **[Daniel Miehle](https://github.com/danielmiehle)**                                                 |                                               **[Björn Roy](https://github.com/giterrific)**                                               |
-
-Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractusx/who) and [committer](https://projects.eclipse.org/projects/automotive.tractusx/who) of Eclipse Tractus-X.
 
 ## License
 
