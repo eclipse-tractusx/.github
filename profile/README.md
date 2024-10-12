@@ -15,6 +15,7 @@ For the latest Tractus-X release, see the [Changelog](https://eclipse-tractusx.g
 ## Our Vision
 
 Our goal is to create an open, scalable, and secure digital ecosystem (refernce implementations) for the automotive industry that:
+
 - Enables collaboration between suppliers, manufacturers, and partners.
 - Facilitates transparency and sustainability in automotive industrial processes.
 - Drives innovation across industries through open and community-driven standards.
@@ -22,14 +23,15 @@ Our goal is to create an open, scalable, and secure digital ecosystem (refernce 
 - Ensures data sovereignty and privacy for all participants.
 - Offers an easy entry to various use cases through our [KITs (Keep It Together)](https://eclipse-tractusx.github.io/Kits) approach.
 
-## Key Projects
+## Related Projects
 
 - **[Eclipse Dataspace Components](https://projects.eclipse.org/projects/technology.edc)**: A solution for secure and standardized data sharing between partners.
-- What else?
+- **[Catena-X Ecosystem](https://catena-x.net/en/)** operated for example by **[Cofinity-X](https://www.cofinity-x.com/)**
 
 ## How to Get Involved
 
 We are an open-source community, and we welcome contributors from all backgrounds. You can get involved in many ways:
+
 - **Join our discussions**: Check out the issues in our repositories to see current challenges and join the conversation.
 - **Contribute**: Whether it's code, documentation, or ideas, contributions are always welcome! Start by reading our [Contributing Guide](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute).
 - **Attend our events**: Participate in our [regular](https://eclipse-tractusx.github.io/community/open-meetings#regular-meetings) and [one-time](https://eclipse-tractusx.github.io/community/open-meetings#one-time-meetings).
