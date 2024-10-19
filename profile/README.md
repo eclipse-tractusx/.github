@@ -4,23 +4,22 @@
 
 ## About Eclipse Tractus-X
 
-Eclipse Tractus-X is a collaborative, open-source initiative aimed at driving the digital transformation of the automotive industry and beyond. Our mission is to enable secure, efficient data exchange and seamless
-collaboration across the supply chain using trusted open standards.
+Eclipse Tractus-X is a collaborative, open-source project aimed at driving the digital transformation of the automotive industry and beyond. Our mission is to enable secure, efficient data exchange and seamless collaboration across the supply chain using trusted open standards.
 
-Tractus-X is the home of the reference implementations used in Catena-X. Tractus-X develops solutions that foster interoperability between various stakeholders, providing an open ecosystem for data-driven applications.
-This includes reference implementations and models for **supply chain**, **compliance**, **sustainability**, and **more**.
+Eclipse Tractus-X is the home of the reference implementations used in [Catena-X](https://catena-x.net). The project develops solutions that foster interoperability between various stakeholders, providing an open ecosystem for data-driven applications.
+This includes reference implementations and models for **supply chain**, **compliance**, **sustainability** and **more**.
 
 For the latest Tractus-X release, see the [Changelog](https://eclipse-tractusx.github.io/CHANGELOG) on our [webpage](https://eclipse-tractusx.github.io/).
 
 ## Our Vision
 
-Our goal is to create an open, scalable, and secure digital ecosystem (refernce implementations) for the automotive and many other industries that:
+Our goal is to create open, scalable and secure reference implementations for a digital ecosystem in the automotive and many other industries that:
 
-- Enables collaboration between suppliers, manufacturers, and partners.
-- Facilitates transparency and sustainability in automotive industrial processes.
-- Drives innovation across industries through open and community-driven standards.
-- Ensures data sovereignty and privacy for all participants.
-- Offers an easy entry to various use cases through our [KITs (Keep It Together)](https://eclipse-tractusx.github.io/Kits) approach.
+- Enable collaboration between suppliers, manufacturers, and partners.
+- Facilitate transparency and sustainability in automotive industrial processes.
+- Drive innovation across industries through open and community-driven standards.
+- Ensure data sovereignty and privacy for all participants.
+- Offer an easy entry to various use cases through our [KITs (Keep It Together)](https://eclipse-tractusx.github.io/Kits) approach.
 
 ## Related Projects
 
@@ -35,7 +34,7 @@ We are an open-source community, and we welcome contributors from all background
 - **Contribute**: Whether it's code, documentation, or ideas, contributions are always welcome! Start by reading our [Contributing Guide](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute).
 - **Attend our events**: Participate in our [regular](https://eclipse-tractusx.github.io/community/open-meetings#regular-meetings) and [one-time](https://eclipse-tractusx.github.io/community/open-meetings#one-time-meetings).
 - **Collaborate**: Partner with us to help shape the future of digital transformation in the automotive and manufacturing industries.
-- **Repositories**: Check out our [GitHub repositories](https://github.com/eclipse-tractusx) to see our latest projects and contributions.
+- **Repositories**: Check out our [GitHub repositories](https://github.com/orgs/eclipse-tractusx/repositories) to see our latest projects and contributions.
 - **Timelines**: Stay up-to-date with our [Release Planning](https://github.com/orgs/eclipse-tractusx/projects/26) and [Release Schedule](https://github.com/orgs/eclipse-tractusx/projects/26/views/35).
 
 ## Our Community and Governance
@@ -64,7 +63,7 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 
 ## Our Community
 
-Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractusx/who) and [committer](https://projects.eclipse.org/projects/automotive.tractusx/who) and our project leads of Eclipse Tractus-X:
+Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractusx/who) and [committer](https://projects.eclipse.org/projects/automotive.tractusx/who) and our [project leads](https://projects.eclipse.org/projects/automotive.tractusx/who) of Eclipse Tractus-X:
 
 | ![Stephan Bauer](https://images.weserv.nl/?url=avatars.githubusercontent.com/stephanbcbauer?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Mathias Brunkow Moser](https://images.weserv.nl/?url=avatars.githubusercontent.com/matbmoser?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Evelyn Gurschler](https://images.weserv.nl/?url=avatars.githubusercontent.com/evegufy?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Daniel Miehle](https://images.weserv.nl/?url=avatars.githubusercontent.com/danielmiehle?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Björn Roy](https://images.weserv.nl/?url=avatars.githubusercontent.com/giterrific?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)  |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
