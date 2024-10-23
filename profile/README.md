@@ -1,8 +1,11 @@
 # Welcome to Eclipse Tractus-X  🙌
 
-![Tractus-X Logo](https://avatars.githubusercontent.com/u/102587798?s=200&v=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../resources/221027_Tractus_X_Logo_RGB_Light_Version.png" width="465" height="auto">
+  <img alt="Eclipse Tractus-X lOGO" src="resources/221027_Tractus_X_Logo_RGB_Dark_Version.png" width="465" height="auto">
+</picture>
 
-## About Eclipse Tractus-X
+## About Us
 
 Eclipse Tractus-X is a collaborative, open-source project aimed at driving the digital transformation of the automotive industry and beyond. Our mission is to enable secure, efficient data exchange and seamless collaboration across the supply chain using trusted open standards.
 
