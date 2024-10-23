@@ -44,7 +44,7 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 
 - **[Code of Conduct](../CODE_OF_CONDUCT.md)**: We strive to maintain a welcoming and inclusive environment for everyone.
 - **Committers and Contributors**: Interested in becoming a committer? Check out the [Eclipse governance model](https://www.eclipse.org/membership/become-a-member/committer/) and [learn](https://www.eclipse.org/projects/training/) how you can play a key role in the development of our projects.
-- **[Our Tractus-X Community Release Guidelines (TRGS)](https://eclipse-tractusx.github.io/docs/release)**: Our main project rules, best practices and requirements that ease the contribution, maintainance and products/components open source governance (FOSS) compliance.
+- **[Our Tractus-X Community Release Guidelines](https://eclipse-tractusx.github.io/docs/release) (TRGs)**: Our main project rules, best practices and requirements that ease the contribution, maintainance and products/components open source governance (FOSS) compliance.
 - **Security**: Please report any security issues to **TBD** following our [TRG 8 - Security](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) and [sig-security](https://github.com/eclipse-tractusx/sig-security).
 ## Useful Links
 
