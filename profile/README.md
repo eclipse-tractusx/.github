@@ -46,8 +46,8 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 
 - **[Code of Conduct](../CODE_OF_CONDUCT.md)**: We strive to maintain a welcoming and inclusive environment for everyone.
 - **Committers and Contributors**: Interested in becoming a committer? Check out the [Eclipse governance model](https://www.eclipse.org/membership/become-a-member/committer/) and [learn](https://www.eclipse.org/projects/training/) how you can play a key role in the development of our projects.
+- **[Our Tractus-X Community Release Guidelines (TRGS)](https://eclipse-tractusx.github.io/docs/release)**: Our main project rules, best practices and requirements that ease the contribution, maintainance and products/components open source governance (FOSS) compliance.
 - **Security**: Please report any security issues to **TBD** following our [TRG 8 - Security](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) and [sig-security](https://github.com/eclipse-tractusx/sig-security).
-
 ## Useful Links
 
 - [Tractus-X Official Website](https://www.tractus-x.com)
@@ -85,8 +85,8 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="465" height="auto">
-    <img alt="Most engaged people of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="465" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="385" height="auto">
+    <img alt="Most engaged people of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="385" height="auto">
   </picture>
 </a>
 
