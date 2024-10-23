@@ -1,9 +1,7 @@
 # Welcome to Eclipse Tractus-X  🙌
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../resources/221027_Tractus_X_Logo_RGB_Light_Version.png" width="465" height="auto">
-  <img alt="Eclipse Tractus-X lOGO" src="resources/221027_Tractus_X_Logo_RGB_Dark_Version.png" width="465" height="auto">
-</picture>
+![Tractus-X Logo](../resources/221027_Tractus_X_Logo_RGB_Light_Version.png#gh-dark-mode-only)
+![Tractus-X Logo](../resources/221027_Tractus_X_Logo_RGB_Dark_Version.png#gh-light-mode-only)
 
 ## About Us
 
