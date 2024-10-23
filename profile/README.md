@@ -139,11 +139,6 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<hr>
-
-
-<hr>
-
 ## License
 
 - [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) for non code
