@@ -85,8 +85,8 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="385" height="auto">
-    <img alt="Most engaged people of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="385" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="370" height="auto">
+    <img alt="Most engaged people of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="370" height="auto">
   </picture>
 </a>
 
