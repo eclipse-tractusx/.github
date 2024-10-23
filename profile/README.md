@@ -65,12 +65,6 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 
 Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractusx/who) and [committer](https://projects.eclipse.org/projects/automotive.tractusx/who) and our [project leads](https://projects.eclipse.org/projects/automotive.tractusx/who) of Eclipse Tractus-X and stay in contact via [tractusx-dev mailing list](https://accounts.eclipse.org/mailing-list/tractusx-dev) and the [matrix chat](https://chat.eclipse.org/docs/) and related [Tractus-X space](https://chat.eclipse.org/#/room/#automotive.tractusx:matrix.eclipse.org).
 
-### Project leads
-
-| ![Stephan Bauer](https://images.weserv.nl/?url=avatars.githubusercontent.com/stephanbcbauer?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Mathias Brunkow Moser](https://images.weserv.nl/?url=avatars.githubusercontent.com/matbmoser?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Evelyn Gurschler](https://images.weserv.nl/?url=avatars.githubusercontent.com/evegufy?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Daniel Miehle](https://images.weserv.nl/?url=avatars.githubusercontent.com/danielmiehle?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d) | ![Björn Roy](https://images.weserv.nl/?url=avatars.githubusercontent.com/giterrific?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)  |
-|:--------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|                                     **[Stephan Bauer](https://github.com/stephanbcbauer)**                                      | **[Mathias Brunkow Moser](https://github.com/matbmoser)**           |                                                 **[Evelyn Gurschler](https://github.com/evegufy)**                                                 |                                                **[Daniel Miehle](https://github.com/danielmiehle)**                                                 |                                               **[Björn Roy](https://github.com/giterrific)**                                               |
-
 ## Statistics (last 12 months)
 
 <!-- Copy-paste in your Readme.md file -->
@@ -99,17 +93,6 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=2x6&color_scheme=dark" width="561" height="auto">
-    <img alt="Overview of Stars earned of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=2x6&color_scheme=light" width="561" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
 <a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?activity=active&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&owner_id=102587798&period=past_12_months&image_size=2x3&color_scheme=dark" width="273" height="auto">
@@ -126,17 +109,6 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=pull-requests&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=dark" width="177" height="auto">
     <img alt="[Overview] pull-requests of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=pull-requests&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=light" width="177" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?activity=reviews&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=reviews&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=dark" width="177" height="auto">
-    <img alt="[Overview] reviews of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=reviews&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=light" width="177" height="auto">
   </picture>
 </a>
 
