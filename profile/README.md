@@ -84,6 +84,17 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="465" height="auto">
+    <img alt="Most engaged people of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ### Organization Overview
 
 <!-- Copy-paste in your Readme.md file -->
@@ -155,149 +166,8 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <hr>
 
-### Participants
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-company?activity=participants&role=pr_creators&excludeSeenBefore=false&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-company/thumbnail.png?activity=participants&role=pr_creators&excludeSeenBefore=false&owner_id=102587798&period=past_12_months&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Company Affiliation of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-activity-company/thumbnail.png?activity=participants&role=pr_creators&excludeSeenBefore=false&owner_id=102587798&period=past_12_months&image_size=4x7&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=repos&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&owner_id=102587798&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active repos of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&owner_id=102587798&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=participants&role=pr_creators&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=participants&role=pr_creators&owner_id=102587798&period=past_12_months&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Geographical Distribution of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=participants&role=pr_creators&owner_id=102587798&period=past_12_months&image_size=4x7&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=102587798&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active participants of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=102587798&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <hr>
-
-### Contributions
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=3x6&color_scheme=dark" width="465" height="auto">
-    <img alt="Ranking of repos with the commit code changes in eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=3x6&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution?zone=3&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?zone=1&owner_id=102587798&period=past_12_months&image_size=3x6&color_scheme=dark" width="465" height="auto">
-    <img alt="When Do Participants Prefer to Submit Code?" src="https://next.ossinsight.io/widgets/official/analyze-org-commits-time-distribution/thumbnail.png?zone=1&owner_id=102587798&period=past_12_months&image_size=3x6&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?activity=pull-requests&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?activity=pull-requests&owner_id=102587798&period=past_12_months&image_size=3x9&color_scheme=dark" width="657" height="auto">
-    <img alt="Count of Pull requests Over Time" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?activity=pull-requests&owner_id=102587798&period=past_12_months&image_size=3x9&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio?activity=pull-requests%2Fmerged&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=pull-requests%2Fmerged&owner_id=102587798&period=past_12_months&image_size=3x3&color_scheme=dark" width="212" height="auto">
-    <img alt="Pull-requests merged ratio of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=pull-requests%2Fmerged&owner_id=102587798&period=past_12_months&image_size=3x3&color_scheme=light" width="212" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency?activity=issues&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?activity=issues&owner_id=102587798&period=past_12_months&image_size=3x9&color_scheme=dark" width="657" height="auto">
-    <img alt="Count of Issues Over Time" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-efficiency/thumbnail.png?activity=issues&owner_id=102587798&period=past_12_months&image_size=3x9&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio?activity=issues%2Fclosed&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=issues%2Fclosed&owner_id=102587798&period=past_12_months&image_size=3x3&color_scheme=dark" width="212" height="auto">
-    <img alt="Issues closed ratio of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=issues%2Fclosed&owner_id=102587798&period=past_12_months&image_size=3x3&color_scheme=light" width="212" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<hr>
-
-## Engagement
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="465" height="auto">
-    <img alt="Participants roles of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=dark" width="465" height="auto">
-    <img alt="Most engaged people of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=102587798&period=past_12_months&image_size=5x5&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ## License
 
