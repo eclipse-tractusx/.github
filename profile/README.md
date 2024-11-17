@@ -117,10 +117,10 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?activity=issues&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?activity=new&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=dark" width="177" height="auto">
-    <img alt="[Overview] issues of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=light" width="177" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&owner_id=102587798&period=past_12_months&image_size=2x3&color_scheme=dark" width="273" height="auto">
+    <img alt="New participants of eclipse-tractusx - past 12 months" src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&owner_id=102587798&period=past_12_months&image_size=2x3&color_scheme=light" width="273" height="auto">
   </picture>
 </a>
 
@@ -128,10 +128,10 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?activity=new&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
+<a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?activity=issues&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&owner_id=102587798&period=past_12_months&image_size=2x3&color_scheme=dark" width="273" height="auto">
-    <img alt="New participants of eclipse-tractusx - past 12 months" src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&owner_id=102587798&period=past_12_months&image_size=2x3&color_scheme=light" width="273" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=dark" width="177" height="auto">
+    <img alt="[Overview] issues of eclipse-tractusx" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=102587798&period=past_12_months&image_size=2x2&color_scheme=light" width="177" height="auto">
   </picture>
 </a>
 
