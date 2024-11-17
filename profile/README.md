@@ -115,6 +115,8 @@ Meet the [contributors](https://projects.eclipse.org/projects/automotive.tractus
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+<br>
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?activity=new&owner_id=102587798&period=past_12_months" target="_blank" style="display: block" align="right">
