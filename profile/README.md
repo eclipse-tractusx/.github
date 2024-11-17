@@ -1,7 +1,7 @@
 # Welcome to Eclipse Tractus-X  🙌
 
-<img src="https://github.com/eclipse-tractusx/.github/blob/main/resources/221027_Tractus_X_Logo_RGB_Light_Version.png#gh-dark-mode-only" width="600px"/>
-<img src="https://github.com/eclipse-tractusx/.github/blob/main/resources/221027_Tractus_X_Logo_RGB_Dark_Version.png#gh-light-mode-only" width="600px"/>
+<img src="https://github.com/eclipse-tractusx/.github/blob/main/resources/241117_Tractus_X_Logo_RGB_Light_Version.png#gh-dark-mode-only" width="500px"/>
+<img src="https://github.com/eclipse-tractusx/.github/blob/main/resources/271117_Tractus_X_Logo_RGB_Dark_Version.png#gh-light-mode-only" width="500px"/>
 
 ## About Us
 
