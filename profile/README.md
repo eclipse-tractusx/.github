@@ -48,7 +48,7 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 - **Security**: Please report any security issues to **TBD** following our [TRG 8 - Security](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) and [sig-security](https://github.com/eclipse-tractusx/sig-security).
 ## Useful Links
 
-- [Tractus-X Official Website](https://www.tractus-x.com)
+- [Tractus-X Official Website](https://eclipse-tractusx.github.io)
 - [Getting Started](https://eclipse-tractusx.github.io/docs/getting-started)
 - [Eclipse Foundation](https://www.eclipse.org)
 - [Eclipse Foundation Project handbook](https://www.eclipse.org/projects/handbook/)
