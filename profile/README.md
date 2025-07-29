@@ -29,6 +29,7 @@ Our goal is to create open, scalable and secure reference implementations for a 
   - **[Catena-X Ecosystem](https://catena-x.net/en/)** operated for example by **[Cofinity-X](https://www.cofinity-x.com/)**.
   - **[Chem-X](https://www.chem-x.de)**: project which brings dataspaces closer to the chemical industry.
   - **[Contruct-X](https://construct-x.org)**: project which builds a dataspace to the contruction industry.
+  - **[Wind-X](https://www.iat.rwth-aachen.de/cms/iat/forschung/projekte/~bkmazw/wind-x/?lidx=1)**: the overall aim of Wind-X is to develop a federated, decentralized data space for the wind industry based on a cloud-edge infrastructure
 
 ## How to Get Involved
 
@@ -46,11 +47,9 @@ Here is more info:  https://www.eclipse.org/legal/eca/
 
 ### How to become a contributor
 
-If you are in this contributor list already, https://projects.eclipse.org/projects/automotive.tractusx/who  you are added then (mostly the ones that sent me an email already are there, please make sure you are the also.)
-It looks like this when its ok:  image.png
-Here is more info:  https://www.eclipse.org/legal/eca/
+Any committer can add you to the list of contributors, however if you know no committer, feel free to open your issue, select the option: [Support: Add me as Tractus-X project contributor](https://github.com/eclipse-tractusx/sig-infra/issues/new/choose).
 
-
+### Other links of interest
 
 - **Join our discussions**: Check out the issues in our repositories to see current challenges and join the conversation.
 - **Contribute**: Whether it's code, documentation, or ideas, contributions are always welcome! Start by reading our [Contributing Guide](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute).
