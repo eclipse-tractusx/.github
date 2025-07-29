@@ -43,6 +43,7 @@ Here is what you need to do to contribute:
 
 You will need an Eclipse Foundation account, if you don't have it, please create an account in the [Eclipse Foundation](https://accounts.eclipse.org/user/register) -> You will also need a github account 😉
 Sign the ECA (Eclipse Contributor Agreement) [is just agreeing that you are not going to do anything bad, add tojans, malware, etc..] and comply to the eclipse foundation contribution guidelines.
+
 Here is more info:  https://www.eclipse.org/legal/eca/
 
 ### How do I get the contributor role?
