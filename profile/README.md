@@ -7,7 +7,7 @@
 
 Eclipse Tractus-X is a collaborative, open-source project aimed at driving the digital transformation of the automotive industry and beyond. Our mission is to enable secure, efficient data exchange and seamless collaboration across the supply chain using trusted open standards.
 
-Eclipse Tractus-X is the home of the reference implementations used in [Catena-X](https://catena-x.net). The project develops solutions that foster interoperability between various stakeholders, providing an open ecosystem for data-driven applications.
+Eclipse Tractus-X is the home of the reference implementations used in [Catena-X](https://catena-x.net) and in several projects from [Manufacturing-X](https://manufacturing-x.de). The project develops solutions that foster interoperability between various stakeholders, providing an open ecosystem for data-driven applications.
 This includes reference implementations and models for **supply chain**, **compliance**, **sustainability** and **more**.
 
 For the latest Tractus-X release, see the [Changelog](https://eclipse-tractusx.github.io/CHANGELOG) on our [webpage](https://eclipse-tractusx.github.io/).
@@ -25,11 +25,32 @@ Our goal is to create open, scalable and secure reference implementations for a 
 ## Related Projects
 
 - **[Eclipse Dataspace Components](https://projects.eclipse.org/projects/technology.edc)**: A solution for secure and standardized data sharing between partners.
-- **[Catena-X Ecosystem](https://catena-x.net/en/)** operated for example by **[Cofinity-X](https://www.cofinity-x.com/)**
+- **[Manufacturing-X](https://manufacturing-x.de)**: where all the projects based on the Catena-X lighhouse come together to align requirements and collaborate. This are the projects which use and contribute back to Eclipse Tractus-X:
+  - **[Catena-X Ecosystem](https://catena-x.net/en/)** operated for example by **[Cofinity-X](https://www.cofinity-x.com/)**.
+  - **[Chem-X](https://www.chem-x.de)**: project which brings dataspaces closer to the chemical industry.
+  - **[Contruct-X](https://construct-x.org)**: project which builds a dataspace to the contruction industry.
+  - **[Wind-X](https://www.iat.rwth-aachen.de/cms/iat/forschung/projekte/~bkmazw/wind-x/?lidx=1)**: the overall aim of Wind-X is to develop a federated, decentralized data space for the wind industry based on a cloud-edge infrastructure
 
 ## How to Get Involved
 
 We are an open-source community, and we welcome contributors from all backgrounds. You can get involved in many ways:
+
+### New joiner?
+
+If you unfamiliar with our processes or open source in general, get a onboarding meeting with one of our committers [here](https://eclipse-tractusx.github.io/community/open-meetings/#NewJoiner%20-%20Office%20Hour)!
+
+Here is what you need to do to contribute:
+
+You will need an Eclipse Foundation account, if you don't have it, please create an account in the [Eclipse Foundation](https://accounts.eclipse.org/user/register) -> You will also need a github account 😉
+Sign the ECA (Eclipse Contributor Agreement) [is just agreeing that you are not going to do anything bad, add tojans, malware, etc..] and comply to the eclipse foundation contribution guidelines.
+
+Here is more info:  https://www.eclipse.org/legal/eca/
+
+### How do I get the contributor role?
+
+Any committer can add you to the list of contributors, however if you know no committer, feel free to open your issue, select the option: [Support: Add me as Tractus-X project contributor](https://github.com/eclipse-tractusx/sig-infra/issues/new/choose).
+
+### Other links of interest
 
 - **Join our discussions**: Check out the issues in our repositories to see current challenges and join the conversation.
 - **Contribute**: Whether it's code, documentation, or ideas, contributions are always welcome! Start by reading our [Contributing Guide](https://eclipse-tractusx.github.io/docs/oss/how-to-contribute).
@@ -53,6 +74,7 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 - [Eclipse Foundation](https://www.eclipse.org)
 - [Eclipse Foundation Project handbook](https://www.eclipse.org/projects/handbook/)
 - [Catena-X Automotive Network e.V.](https://catena-x.net)
+- [Manufacturing-X Website](https://manufacturing-x.de)
 - [Catena-X - Library](https://catenax-ev.github.io/)
 - [Eclipse Tractus-x Project Page](https://projects.eclipse.org/projects/automotive.tractusx)
 
