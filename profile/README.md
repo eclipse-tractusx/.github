@@ -74,6 +74,7 @@ Eclipse Tractus-X operates under the open governance model of the [Eclipse Found
 - [Eclipse Foundation](https://www.eclipse.org)
 - [Eclipse Foundation Project handbook](https://www.eclipse.org/projects/handbook/)
 - [Catena-X Automotive Network e.V.](https://catena-x.net)
+- [Manufacturing-X Website](https://manufacturing-x.de)
 - [Catena-X - Library](https://catenax-ev.github.io/)
 - [Eclipse Tractus-x Project Page](https://projects.eclipse.org/projects/automotive.tractusx)
 
