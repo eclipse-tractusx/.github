@@ -7,7 +7,7 @@
 
 Eclipse Tractus-X is a collaborative, open-source project aimed at driving the digital transformation of the automotive industry and beyond. Our mission is to enable secure, efficient data exchange and seamless collaboration across the supply chain using trusted open standards.
 
-Eclipse Tractus-X is the home of the reference implementations used in [Catena-X](https://catena-x.net) and in several project from [Manufacturing-X](https://manufacturing-x.de). The project develops solutions that foster interoperability between various stakeholders, providing an open ecosystem for data-driven applications.
+Eclipse Tractus-X is the home of the reference implementations used in [Catena-X](https://catena-x.net) and in several projects from [Manufacturing-X](https://manufacturing-x.de). The project develops solutions that foster interoperability between various stakeholders, providing an open ecosystem for data-driven applications.
 This includes reference implementations and models for **supply chain**, **compliance**, **sustainability** and **more**.
 
 For the latest Tractus-X release, see the [Changelog](https://eclipse-tractusx.github.io/CHANGELOG) on our [webpage](https://eclipse-tractusx.github.io/).
