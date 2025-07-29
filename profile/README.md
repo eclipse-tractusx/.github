@@ -39,9 +39,9 @@ We are an open-source community, and we welcome contributors from all background
 
 If you unfamiliar with our processes or open source in general, get a onboarding meeting with one of our committers [here](https://eclipse-tractusx.github.io/community/open-meetings/#NewJoiner%20-%20Office%20Hour)!
 
-Here is what you need to do:
+Here is what you need to do to contribute:
 
-If you don't have it, please create an account in the [Eclipse Foundation](https://accounts.eclipse.org/user/register) -> You will also need a github account 😉
+You will need an Eclipse Foundation account, if you don't have it, please create an account in the [Eclipse Foundation](https://accounts.eclipse.org/user/register) -> You will also need a github account 😉
 Sign the ECA (Eclipse Contributor Agreement) [is just agreeing that you are not going to do anything bad, add tojans, malware, etc..] and comply to the eclipse foundation contribution guidelines.
 Here is more info:  https://www.eclipse.org/legal/eca/
 
