@@ -25,7 +25,7 @@ Our goal is to create open, scalable and secure reference implementations for a 
 ## Related Projects
 
 - **[Eclipse Dataspace Components](https://projects.eclipse.org/projects/technology.edc)**: A solution for secure and standardized data sharing between partners.
-- **[Manufacturing-X](https://manufacturing-x.de)**: where all the projects based on the Catena-X lighhouse come together to align requirements and collaborate. This are the projects which use and contribute back to Eclipse Tractus-X:
+- **[Manufacturing-X](https://manufacturing-x.de)**: where all the projects based on the Catena-X lighthouse come together to align requirements and collaborate. This are the projects which use and contribute back to Eclipse Tractus-X:
   - **[Catena-X Ecosystem](https://catena-x.net/en/)** operated for example by **[Cofinity-X](https://www.cofinity-x.com/)**.
   - **[Chem-X](https://www.chem-x.de)**: project which brings dataspaces closer to the chemical industry.
   - **[Contruct-X](https://construct-x.org)**: project which builds a dataspace to the contruction industry.
