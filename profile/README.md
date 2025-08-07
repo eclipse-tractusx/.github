@@ -30,6 +30,7 @@ Our goal is to create open, scalable and secure reference implementations for a 
   - **[Chem-X](https://www.chem-x.de)**: project which brings dataspaces closer to the chemical industry.
   - **[Contruct-X](https://construct-x.org)**: project which builds a dataspace to the contruction industry.
   - **[Wind-X](https://www.iat.rwth-aachen.de/cms/iat/forschung/projekte/~bkmazw/wind-x/?lidx=1)**: the overall aim of Wind-X is to develop a federated, decentralized data space for the wind industry based on a cloud-edge infrastructure
+  - **[Energy-Data-X](https://www.energydata-x.eu/en/)**: is developing a cross-sector data space and thus contributing to the realisation of national and European energy and climate protection goals.
 
 **We are open for more collaboration**!: Join our [office hours](https://eclipse-tractusx.github.io/community/open-meetings#Community%20Office%20Hour) or our open meeting for the products and ask your questions. If you want to start contributing join our [new joiner sesssion](https://eclipse-tractusx.github.io/community/open-meetings/#NewJoiner%20-%20Office%20Hour) or just write the community in our main [Eclipse Tractus-X Matrix Chat](https://matrix.to/#/#tractusx:matrix.eclipse.org).
 
