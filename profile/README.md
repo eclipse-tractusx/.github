@@ -28,7 +28,7 @@ Our goal is to create open, scalable and secure reference implementations for a 
 - **[Manufacturing-X](https://manufacturing-x.de)**: where all the projects based on the Catena-X lighthouse come together to align requirements and collaborate. This are the projects which use and contribute back to Eclipse Tractus-X:
   - **[Catena-X Ecosystem](https://catena-x.net/en/)** operated for example by **[Cofinity-X](https://www.cofinity-x.com/)**.
   - **[Chem-X](https://www.chem-x.de)**: project which brings dataspaces closer to the chemical industry.
-  - **[Contruct-X](https://construct-x.org)**: project which builds a dataspace to the contruction industry.
+  - **[Construct-X](https://construct-x.org)**: project which builds a dataspace to the contruction industry.
   - **[Wind-X](https://www.iat.rwth-aachen.de/cms/iat/forschung/projekte/~bkmazw/wind-x/?lidx=1)**: the overall aim of Wind-X is to develop a federated, decentralized data space for the wind industry based on a cloud-edge infrastructure
   - **[Energy-Data-X](https://www.energydata-x.eu/en/)**: is developing a cross-sector data space and thus contributing to the realisation of national and European energy and climate protection goals.
   - **[Semiconductor-X](https://www.semiconductor-x.com)**: Contributing to a cross-sector international dataspace and digital twin standards for resilient semiconductor supply chains.
