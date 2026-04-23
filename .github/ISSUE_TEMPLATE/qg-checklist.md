@@ -28,10 +28,10 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 
 #### TRG 1 Documentation
 
-- [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-1) appropriate `README.md`
-- [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-2) appropriate install instructions either `INSTALL.md` or in `README.md`
-- [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-3) appropriate `CHANGELOG.md`
-- [ ] [TRG 1.04](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-4) editable static files
+- [ ] [TRG 1.01](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-01) appropriate `README.md`
+- [ ] [TRG 1.02](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-02) appropriate install instructions either `INSTALL.md` or in `README.md`
+- [ ] [TRG 1.03](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-03) appropriate `CHANGELOG.md`
+- [ ] [TRG 1.04](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-04) editable static files
 - [ ] [TRG 1.05](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-05) architecture docs
 - [ ] [TRG 1.06](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-06) administrator guide
 - [ ] [TRG 1.07](https://eclipse-tractusx.github.io/docs/release/trg-1/trg-1-07) user manual
@@ -39,15 +39,14 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 
 #### TRG 2 Git
 
-- [ ] [TRG 2.01](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-1) default branch is named `main`
-- [ ] [TRG 2.03](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-3) repository structure
-- [ ] [TRG 2.04](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-4) leading product repository
-- [ ] [TRG 2.05](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-5) `.tractusx` metafile in a proper format
-- [ ] [TRG 2.06](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-6) Dependabot
+- [ ] [TRG 2.01](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-01) default branch is named `main`
+- [ ] [TRG 2.03](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-03) repository structure
+- [ ] [TRG 2.04](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-04) leading product repository
+- [ ] [TRG 2.05](https://eclipse-tractusx.github.io/docs/release/trg-2/trg-2-05) `.tractusx` metafile in a proper format
 
 #### TRG 3 Kubernetes
 
-- [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-2) persistent volume and persistent volume claim or database dependency (subchart) are in place when needed
+- [ ] [TRG 3.02](https://eclipse-tractusx.github.io/docs/release/trg-3/trg-3-02) persistent volume and persistent volume claim or database dependency (subchart) are in place when needed
 
 #### TRG 4 Container
 
@@ -57,6 +56,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 4.05](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-05) released image must be placed in `DockerHub`, remove `GHCR` references
 - [ ] [TRG 4.06](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-06) separate notice file for `DockerHub` has all necessary information
 - [ ] [TRG 4.07](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-07) root file system is set to read access by default, but can be overwritten by the user
+- [ ] [TRG 4.08](https://eclipse-tractusx.github.io/docs/release/trg-4/trg-4-08) multi-platform images
 
 #### TRG 5 Helm
 
@@ -73,7 +73,7 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
  
 #### TRG 6 Released Helm Chart
 
-- [ ] [TRG 6.01](https://eclipse-tractusx.github.io/docs/release/trg-6/trg-6-1) Released Helm Chart <!-- A released Helm chart for each Tractus-X sub-product is expected to be available in corresponding GitHub repository. -->
+- [ ] [TRG 6.01](https://eclipse-tractusx.github.io/docs/release/trg-6/trg-6-01) Released Helm Chart <!-- A released Helm chart for each Tractus-X sub-product is expected to be available in corresponding GitHub repository. -->
 
 #### TRG 7 Open Source Governance
 - [ ] [TRG 7.01](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-01) Legal Documentation
@@ -83,13 +83,15 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 - [ ] [TRG 7.05](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-05) Legal information for distributions
 - [ ] [TRG 7.06](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-06) Legal information for end user content
 - [ ] [TRG 7.07](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-07) Legal notice for documentation (non-code)
-- [ ] [TRG 7.08](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-08) Legal notice for KIT documentation
+- [ ] [TRG 7.09](https://eclipse-tractusx.github.io/docs/release/trg-7/trg-7-09) Deprecation of Unmaintained Repositories
 
 #### TRG 8 Security
 - [ ] [TRG 8.01](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) Mitigate high and above findings in CodeQL
 - [ ] [TRG 8.02](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-02) Mitigate high and above findings in KICS
+- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) No secret findings by GitGuardian or
 - [ ] [TRG 8.04](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-04) Mitigate high and above findings in Trivy
-- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) No secret findings by GitGuardian or TruffleHog
+TruffleHog
+- [ ] [TRG 8.05](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-05) Dependabot
 
 #### TRG 9 UX/UI Styleguide
 - [ ] [TRG 9.01](https://eclipse-tractusx.github.io/docs/release/trg-9/trg-9-01) UI consistency/styleguide for UI
