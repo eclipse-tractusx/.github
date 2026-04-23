@@ -88,9 +88,8 @@ Release Management Reference Issue: <!-- Note: Add the related product RM issue 
 #### TRG 8 Security
 - [ ] [TRG 8.01](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-01) Mitigate high and above findings in CodeQL
 - [ ] [TRG 8.02](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-02) Mitigate high and above findings in KICS
-- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) No secret findings by GitGuardian or
+- [ ] [TRG 8.03](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03) No secret findings by TruffleHog
 - [ ] [TRG 8.04](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-04) Mitigate high and above findings in Trivy
-TruffleHog
 - [ ] [TRG 8.05](https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-05) Dependabot
 
 #### TRG 9 UX/UI Styleguide
