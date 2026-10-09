@@ -39,6 +39,19 @@ Our goal is to create open, scalable and secure reference implementations for a 
 
 We are an open-source community, and we welcome contributors from all backgrounds. You can get involved in many ways:
 
+### Follow us in LinkedIn
+
+[+ Follow Us! Eclipse Tractus-X LinkedIn](https://www.linkedin.com/company/eclipse-tractusx)
+
+### Join our weekly office hours
+
+Did you know that the community meets every Friday at 10:05 AM (West Europe Time)? [You can adjust the time in our webpage!] 
+
+[Join our main Community Office Hour](https://eclipse-tractusx.github.io/community/open-meetings#Community%20Office%20Hour)
+
+Come and ask your questions there! Does not matter the topic.
+Not enough? We have many more [other product meetings](https://eclipse-tractusx.github.io/community/open-meetings) that take place at weekly bases.
+
 ### New joiner?
 
 If you unfamiliar with our processes or open source in general, get a onboarding meeting with one of our committers [here](https://eclipse-tractusx.github.io/community/open-meetings/#NewJoiner%20-%20Office%20Hour)!
